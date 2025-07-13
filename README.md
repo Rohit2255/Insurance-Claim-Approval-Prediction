@@ -54,7 +54,7 @@ The dataset includes:
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/your-username/insurance-claim-prediction.git
+git clone hhttps://github.com/Rohit2255/insurance-claim-prediction.git
 cd insurance-claim-prediction
 
 # 2. Install dependencies
@@ -62,3 +62,7 @@ pip install -r requirements.txt
 
 # 3. Run the app
 streamlit run app.py
+
+## 🤝 Connect
+
+Built by [Rohit Yadav](https://www.linkedin.com/in/rohit-kumar-yadav-b97360194/). Let’s connect and collaborate on more finance + data science projects!
