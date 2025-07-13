@@ -49,6 +49,11 @@ The dataset includes:
 - `pickle` for model serialization
 
 ---
+## 🤝 Connect
+
+Built by [Rohit Yadav](https://www.linkedin.com/in/rohit-kumar-yadav-b97360194/). Let’s connect and collaborate on more finance + data science projects!
+
+---
 
 ## 💻 Run Locally
 
@@ -63,6 +68,6 @@ pip install -r requirements.txt
 # 3. Run the app
 streamlit run app.py
 
-## 🤝 Connect
 
-Built by [Rohit Yadav](https://www.linkedin.com/in/rohit-kumar-yadav-b97360194/). Let’s connect and collaborate on more finance + data science projects!
+
+
